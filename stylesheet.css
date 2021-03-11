@@ -1,0 +1,88 @@
+.title {
+    color:indianred;
+    font-size:40px;
+    font-family: times new roman;
+  }
+.header{
+    background-color: grey;
+    color:lavender;
+    height:90px;
+}
+.main{
+    background-color:snow;
+    height:1400px;
+    padding:100px 80px;
+}
+.footer{
+    background-color:olive;
+    height:100px;
+    color:lavenderblush;
+    padding:40px;
+}
+img{
+    height:600px;
+    width:450px;
+    float:right;
+}  
+.contents h2{
+    background-color:darksalmon;
+    width:300px;
+    font-size: 40px;
+}
+.header-logo{
+    float:left;
+    font-size: 36px;
+    padding: 23px 40px;
+    
+}
+.header-list li{
+    list-style: none;
+    float:left;
+    padding:35px 40px;
+}
+.footer-logo{
+    float:left;
+    font-size:36px;
+    padding:40px 20px;
+}
+.footer-list{
+    float:right;
+}
+.footer-list li{
+    padding-bottom:20px;
+}
+.contents-item img{
+    height:200px;
+    width:200px;
+}
+.contents-item{
+    float:left;
+    margin-right:40px;
+  }
+.contents-item p{
+    font-size:34px;
+    margin-top:30px;
+}
+.contact-form{
+    padding-top:100px;
+    color:slategrey;
+    float:left;
+}
+input,textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border:1px solid #dee7ec;
+   }
+.contact-submit{
+    background-color:#dee7ec;
+    color:#889eab;
+}
+.contact-form h3{
+    background-color:darksalmon;
+    width:300px;
+    color:black;
+    font-size:40px ;
+}
